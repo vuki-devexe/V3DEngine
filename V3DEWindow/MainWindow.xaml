@@ -18,11 +18,9 @@
         </Style>
     </Window.Resources>
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="0*"/>
-            <ColumnDefinition Width="87*"/>
-            <ColumnDefinition Width="713*"/>
-        </Grid.ColumnDefinitions>
+
+        <Label Content="TEXT ASUME THERES STUFF HERE" HorizontalAlignment="Left" Margin="258,199,0,0" VerticalAlignment="Top"/>
+
 
     </Grid>
 </Window>
